@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "rodolfo2",
+      "empresa": "ROOD entrerprise",
+      "email": "rood@info.com",
+      "telefono": "1234",
+      "notas": "asdads",
+      "id": 1
+    },
+    {
+      "nombre": "adads",
+      "empresa": "asddas",
+      "email": "adsdas@dsaada.com",
+      "telefono": "12312323",
+      "notas": "dasda",
+      "id": 2
+    },
+    {
+      "nombre": "adsdadas",
+      "empresa": "adsadsda",
+      "email": "adsdas@dsaada.com",
+      "telefono": "123123132",
+      "notas": "adsads",
+      "id": 3
+    }
+  ]
+}
